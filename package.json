@@ -1,0 +1,27 @@
+{
+  "name": "firebase-lite",
+  "version": "1.0.0",
+  "description": "Firebase Remastered",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pythonvista/firebase-lite.git"
+  },
+  "dependencies": {
+    "firebase": "^9.22.0"    
+  },
+  "keywords": [
+    "firbase-lite",
+    "lite"
+  ],
+  "author": "Victor Emeterr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pythonvista/firebase-lite/issues"
+  },
+  "homepage": "https://github.com/pythonvista/firebase-lite#readme"
+}
